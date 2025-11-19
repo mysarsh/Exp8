@@ -44,7 +44,7 @@ com.example.exp8/
 ## 🔗 API Endpoint Used
 
 ```
-https://mocki.io/v1/4c97a1a6-5996-4476-a7b6-334e062e424f
+https://gist.githubusercontent.com/mysarsh/3700941892807f5b8070002b25201415/raw/6d019ea8e3884df3b69d64c739113e226b48feb1/students.json
 ```
 
 The response is expected to be a JSON array with objects like:
