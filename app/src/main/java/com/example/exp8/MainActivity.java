@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 ConnectionAsyncTask connectionAsyncTask = new
                         ConnectionAsyncTask(MainActivity.this);
-                connectionAsyncTask.execute("https://mocki.io/v1/4c97a1a6-5996-4476-a7b6-334e062e424f");
+                connectionAsyncTask.execute("https://gist.githubusercontent.com/mysarsh/3700941892807f5b8070002b25201415/raw/6d019ea8e3884df3b69d64c739113e226b48feb1/students.json");
             }
         });
         linearLayout = (LinearLayout) findViewById(R.id.layout);
